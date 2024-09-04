@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(96, 122, 236);
+  background-color: rgb(218, 224, 255);
 }
 
 #Titulares{
@@ -12,7 +12,7 @@ body{
 }
 
 #PrimerBox{
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(218, 124, 124);
   width: 580px;
   height: 600px;
   position: absolute;
@@ -59,9 +59,28 @@ body{
   left: 60px;
 }
 
-h1 {
-  color: brown;
+h1{
+  color: rgb(13, 241, 154);
   font-size: 80px;
   text-align: center;
-  text-shadow: 3px 3px 4px black;
+  text-shadow: 3px 3px 4px #000;
+}
+
+h2{
+  color:rgb(26, 231, 221) ;
+  font-size: 18px;
+  text-decoration: underline;
+
+}
+
+p{
+  font-size: 14px;
+  text-align: justify;
+  padding: 20px;
+  line-height: 22px;
+}
+
+.foto1{
+  width: 500px;
+  
 }
