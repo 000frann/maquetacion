@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(218, 224, 255);
+  background-color: rgb(62, 65, 82);
 }
 
 #Titulares{
@@ -82,5 +82,25 @@ p{
 
 .foto1{
   width: 500px;
+  position: relative;
+  left: 40px;
+  top: 160px;
   
+}
+
+table{
+  background-color: wheat;
+  width: 400px;
+  height: 350px;
+  border-color: aqua;
+  position: relative;
+  top: 125px;
+  left: 90px;
+}
+
+.foto2{
+  width: 500px;
+  height: 580px;
+  top: 10px;
+  left: 50px;
 }
