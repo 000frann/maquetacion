@@ -104,3 +104,11 @@ table{
   top: 10px;
   left: 50px;
 }
+
+.foto3{
+  width: 1000px;
+  height: 180px;
+  position: relative;
+  top: 10px;
+  left: 100px;
+}
